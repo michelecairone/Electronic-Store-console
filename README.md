@@ -12,3 +12,5 @@ Quando un utente fa un ordine per dei prodotti, l’ordine viene automaticamente
 Quando un dipendente invia i prodotti di un ordine, la quantità di prodotti in magazzino viene automaticamente aggiornata, e se la giacenza diventa nulla per qualche prodotto, allora il sistema invia a uno degli impiegati la lista dei prodotti da acquisire.
 All’arrivo dei nuovi prodotti, un dipendente aggiorna la quantità di prodotti in magazzino.
 Gli utenti e i dipendenti interagiscono con il sistema tramite console.
+
+N.B. All'interno troverete un file pdf (manuale d'uso) che spiega passo passo tutte le varie funzioni del codice.
